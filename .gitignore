@@ -12,7 +12,3 @@ anaconda_projects/
 # Ignore Anaconda virtual environment folders
 /anaconda3/
 /20th_century/
-
-# Ignore common data files
-*.csv
-*.txt
