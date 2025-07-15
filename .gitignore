@@ -1,3 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda project files
+anaconda_projects/
+
+# Virtual document cache
+.virtual_documents/
 # Ignore Anaconda virtual environment folders
 /anaconda3/
 /20th_century/
