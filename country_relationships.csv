@@ -1,0 +1,473 @@
+source,target,value
+   Saint Vincent and the Grenadines ,   Trinidad and Tobago ,228
+   Papua New Guinea ,   Saint Vincent and the Grenadines ,39
+   Russia ,   Saint Vincent and the Grenadines ,38
+   Saint Vincent and the Grenadines ,   United States ,37
+   Germany ,   Saint Vincent and the Grenadines ,34
+   Papua New Guinea ,   Trinidad and Tobago ,28
+   Russia ,   Trinidad and Tobago ,28
+   Japan ,   Saint Vincent and the Grenadines ,26
+   Trinidad and Tobago ,   United States ,25
+   Germany ,   Trinidad and Tobago ,21
+   Japan ,   Trinidad and Tobago ,18
+   Saint Vincent and the Grenadines ,  East Timor ,17
+   Saint Vincent and the Grenadines ,   South Africa ,16
+   North Macedonia ,   Saint Vincent and the Grenadines ,14
+   South Ossetia ,   Trinidad and Tobago ,12
+   North Macedonia ,   Trinidad and Tobago ,12
+   France,   Saint Vincent and the Grenadines ,12
+   Poland ,   Saint Vincent and the Grenadines ,11
+   South Africa ,   Trinidad and Tobago ,11
+   Saint Vincent and the Grenadines ,   Vietnam,11
+   Trinidad and Tobago ,  East Timor ,10
+   Russia ,   United States ,10
+   Saint Vincent and the Grenadines ,   South Ossetia ,10
+   France,   Trinidad and Tobago ,10
+   Trinidad and Tobago ,   Vietnam,10
+   Poland ,   Trinidad and Tobago ,9
+   Italy ,   Saint Vincent and the Grenadines ,9
+   North Macedonia ,   South Ossetia ,8
+    Vatican City (Holy See) ,   Saint Vincent and the Grenadines ,8
+   Germany ,   United States ,7
+   Germany ,   Poland ,7
+   Trinidad and Tobago ,  Central African Republic ,7
+   Sahrawi Arab Democratic Republic ,   Saint Vincent and the Grenadines ,7
+   Germany ,   Russia ,7
+   India ,   Saint Vincent and the Grenadines ,7
+    Vatican City (Holy See) ,   Trinidad and Tobago ,6
+   Cook Islands ,   Saint Vincent and the Grenadines ,6
+   Italy ,   Trinidad and Tobago ,6
+   India ,   Trinidad and Tobago ,6
+   North Macedonia ,   South Africa ,6
+   Sahrawi Arab Democratic Republic ,   Trinidad and Tobago ,6
+   France,   Germany ,5
+   United States ,  East Timor ,5
+   Poland ,   Russia ,5
+   Philippines ,   Saint Vincent and the Grenadines ,5
+   South Ossetia ,   United States ,5
+   Saint Vincent and the Grenadines ,  Central African Republic ,5
+   Papua New Guinea ,   United States ,5
+   Germany ,   Italy ,4
+   North Macedonia ,   United States ,4
+   Japan ,   United States ,4
+   Cook Islands ,   Trinidad and Tobago ,4
+   Trinidad and Tobago ,  Pakistan ,4
+   Germany ,   Japan ,4
+   Japan ,  East Timor ,4
+   North Macedonia ,   Vietnam,4
+   Papua New Guinea ,  East Timor ,3
+   Trinidad and Tobago ,  Romania ,3
+   Trinidad and Tobago ,  Denmark ,3
+   Libya ,   Saint Vincent and the Grenadines ,3
+   India ,  Pakistan ,3
+   Hungary,   Saint Vincent and the Grenadines ,3
+   Hungary,   Trinidad and Tobago ,3
+   Russia ,  East Timor ,3
+   Germany ,  East Timor ,3
+   France,   United States ,3
+   South Africa ,   United States ,3
+   Japan ,   Papua New Guinea ,3
+   Papua New Guinea ,   South Africa ,3
+   Cook Islands ,   Japan ,3
+   Saint Vincent and the Grenadines ,  Cuba ,3
+   Libya ,   Trinidad and Tobago ,3
+   Saint Vincent and the Grenadines ,  Pakistan ,3
+   Saint Vincent and the Grenadines ,  Romania ,3
+   Norway,   Trinidad and Tobago ,3
+   Saint Vincent and the Grenadines ,  Austria ,3
+   Norway,   Saint Vincent and the Grenadines ,3
+   Norway,  Denmark ,3
+   Lithuania ,   Trinidad and Tobago ,3
+   Lithuania ,   Saint Vincent and the Grenadines ,3
+   United States ,  Central African Republic ,3
+   France,   Russia ,3
+   Iran ,   Saint Vincent and the Grenadines ,2
+   Saint Vincent and the Grenadines ,  Czech Republic,2
+   India ,  East Timor ,2
+   Latvia ,   Lithuania ,2
+   Latvia ,   Poland ,2
+   Saint Vincent and the Grenadines ,   United Kingdom ,2
+   Saint Vincent and the Grenadines ,  Australia ,2
+   Sahrawi Arab Democratic Republic ,   South Ossetia ,2
+   Latvia ,   Saint Vincent and the Grenadines ,2
+   Latvia ,   Trinidad and Tobago ,2
+   South Africa ,   South Ossetia ,2
+   India ,   South Ossetia ,2
+   Italy ,   Japan ,2
+   Libya ,   South Africa ,2
+   Saint Vincent and the Grenadines ,  Canada ,2
+   Iran ,   Russia ,2
+   Saint Vincent and the Grenadines ,   Solomon Islands ,2
+   Russia ,  Romania ,2
+   Iran ,   Trinidad and Tobago ,2
+   South Ossetia ,   Vietnam,2
+   Saint Vincent and the Grenadines ,  Belgium ,2
+   Saint Vincent and the Grenadines ,  Albania ,2
+   Saint Vincent and the Grenadines , Cambodia ,2
+   Saint Vincent and the Grenadines ,  Bangladesh ,2
+   Japan ,   South Ossetia ,2
+   Solomon Islands ,   Trinidad and Tobago ,2
+   Japan ,   Solomon Islands ,2
+   Lithuania ,   Poland ,2
+   Saint Vincent and the Grenadines ,   Ukraine ,2
+   Japan ,   Russia ,2
+   Japan ,   Philippines ,2
+   India ,   Papua New Guinea ,2
+   Greece ,   Saint Vincent and the Grenadines ,2
+   Libya ,   North Macedonia ,2
+   United States ,  Australia ,2
+   Estonia ,   Latvia ,2
+   Estonia ,   Lithuania ,2
+   Estonia ,   Poland ,2
+   Estonia ,   Saint Vincent and the Grenadines ,2
+   Trinidad and Tobago , Cambodia ,2
+   United Kingdom ,   United States ,2
+   Germany ,   Norway,2
+   Russia ,   South Ossetia ,2
+   Estonia ,   Trinidad and Tobago ,2
+   France,  Central African Republic ,2
+   Philippines ,   United States ,2
+   Finland ,   Trinidad and Tobago ,2
+   United States ,  Canada ,2
+   Finland ,   Latvia ,2
+   Poland ,  Romania ,2
+   Poland ,  East Timor ,2
+   France,   South Africa ,2
+   France,   Poland ,2
+   Finland ,   Lithuania ,2
+   Finland ,   Poland ,2
+   Finland ,   Russia ,2
+   Vietnam, Cambodia ,2
+   Germany ,  Denmark ,2
+   Trinidad and Tobago ,  Canada ,2
+   Estonia ,   Finland ,2
+   Philippines ,   Trinidad and Tobago ,2
+   Netherlands ,   Saint Vincent and the Grenadines ,2
+   Trinidad and Tobago ,   Ukraine ,2
+   Papua New Guinea ,   South Ossetia ,2
+   Trinidad and Tobago ,   United Kingdom ,2
+   Hungary,  Austria ,2
+   Trinidad and Tobago ,  Albania ,2
+    Vatican City (Holy See) ,  East Timor ,2
+   Cook Islands ,   Solomon Islands ,2
+   Trinidad and Tobago ,  Australia ,2
+   Finland ,   Saint Vincent and the Grenadines ,2
+   Papua New Guinea ,   Sahrawi Arab Democratic Republic ,2
+   Egypt ,   Saint Vincent and the Grenadines ,2
+   Trinidad and Tobago ,  Austria ,2
+   Greece ,   Trinidad and Tobago ,2
+   Greece ,   Italy ,2
+   Trinidad and Tobago ,  Bangladesh ,2
+   Egypt ,   Trinidad and Tobago ,2
+   Philippines ,   Thailand ,1
+   Philippines ,   Singapore ,1
+   Saint Vincent and the Grenadines ,  Bosnia and Herzegovina ,1
+   Saint Vincent and the Grenadines ,  Belarus ,1
+   Papua New Guinea ,Bissau ,1
+   Philippines ,   South Africa ,1
+   Rwanda,   Saint Vincent and the Grenadines ,1
+   Philippines ,  Australia ,1
+   Russia ,  Bangladesh ,1
+   Rwanda,   Trinidad and Tobago ,1
+   Sahrawi Arab Democratic Republic ,   South Africa ,1
+   Russia ,  Cuba ,1
+   Sahrawi Arab Democratic Republic ,   United States ,1
+   Russia ,  Central African Republic ,1
+   Sahrawi Arab Democratic Republic ,  Bangladesh ,1
+   Sahrawi Arab Democratic Republic ,  Pakistan ,1
+   Saint Vincent and the Grenadines ,   San Marino ,1
+   Saint Vincent and the Grenadines ,   Seychelles ,1
+   Saint Vincent and the Grenadines ,   Singapore ,1
+   Russia ,  Canada ,1
+   Russia ,  Austria ,1
+   Philippines ,  East Timor ,1
+   Saint Vincent and the Grenadines ,   Spain ,1
+   Saint Vincent and the Grenadines ,   Sweden ,1
+   Saint Vincent and the Grenadines ,   São Tomé and Príncipe ,1
+   Saint Vincent and the Grenadines ,   Thailand ,1
+   Russia ,   United Kingdom ,1
+   Russia ,   South Africa ,1
+   Russia ,  Pakistan ,1
+   Saint Vincent and the Grenadines ,  Angola ,1
+   Poland ,  Bulgaria ,1
+   Poland ,  Albania ,1
+   Poland ,   United States ,1
+   Saint Vincent and the Grenadines ,  Algeria ,1
+    Vatican City (Holy See) ,   Egypt ,1
+   Saint Vincent and the Grenadines ,  Bulgaria ,1
+   United Kingdom ,  Pakistan ,1
+   United States ,  Romania ,1
+   United States ,  Pakistan ,1
+   United States ,  Cuba ,1
+   United States ,  Cape Verde ,1
+   United States ,  Bulgaria ,1
+   United States ,  Angola ,1
+   United States ,  Albania ,1
+   United States ,   Vietnam,1
+   Ukraine ,  Belarus ,1
+   Vietnam,  Cuba ,1
+   Trinidad and Tobago ,Bissau ,1
+   Trinidad and Tobago , Afghanistan ,1
+   Trinidad and Tobago ,  Laos ,1
+   Trinidad and Tobago ,  Czech Republic,1
+   Trinidad and Tobago ,  Cuba ,1
+   Trinidad and Tobago ,  Cape Verde ,1
+   Trinidad and Tobago ,  Bulgaria ,1
+   Trinidad and Tobago ,  Belgium ,1
+   United States ,Bissau ,1
+   Vietnam,  Laos ,1
+   Trinidad and Tobago ,  Angola ,1
+  Bulgaria ,  East Timor ,1
+  Laos , Cambodia ,1
+  East Timor ,  Romania ,1
+  Central African Republic ,Bissau ,1
+  Central African Republic ,  East Timor ,1
+  Cape Verde ,Bissau ,1
+  Cape Verde ,  Central African Republic ,1
+  Canada ,  East Timor ,1
+  Bulgaria ,  Romania ,1
+  Bangladesh ,  Pakistan ,1
+  Albania ,  Bulgaria ,1
+  Austria ,  Central African Republic ,1
+  Australia ,  East Timor ,1
+  Australia ,  Canada ,1
+  Angola ,Bissau ,1
+  Angola ,  Central African Republic ,1
+  Angola ,  Cape Verde ,1
+  Albania ,  Romania ,1
+  Albania ,  East Timor ,1
+   Trinidad and Tobago ,  Belarus ,1
+   Trinidad and Tobago ,  Algeria ,1
+   Saint Vincent and the Grenadines ,  Cape Verde ,1
+   Solomon Islands ,  East Timor ,1
+   South Africa ,  Central African Republic ,1
+   South Africa ,  Cape Verde ,1
+   South Africa ,  Angola ,1
+   South Africa ,  Algeria ,1
+   South Africa ,   Vietnam,1
+   South Africa ,   United Kingdom ,1
+   South Africa ,   Thailand ,1
+   South Africa ,   São Tomé and Príncipe ,1
+   Singapore ,   Trinidad and Tobago ,1
+   South Africa ,  Laos ,1
+   Singapore ,   Thailand ,1
+   Singapore ,   South Africa ,1
+   Seychelles ,   South Africa ,1
+   San Marino ,   United States ,1
+   Saint Vincent and the Grenadines ,Bissau ,1
+   Saint Vincent and the Grenadines , Afghanistan ,1
+   Saint Vincent and the Grenadines ,  Laos ,1
+   Saint Vincent and the Grenadines ,  Denmark ,1
+   South Africa ,  East Timor ,1
+   South Africa ,  Pakistan ,1
+   Thailand ,   Trinidad and Tobago ,1
+   Spain ,   United States ,1
+   São Tomé and Príncipe ,Bissau ,1
+   São Tomé and Príncipe ,  Central African Republic ,1
+   São Tomé and Príncipe ,  Cape Verde ,1
+   São Tomé and Príncipe ,  Angola ,1
+   São Tomé and Príncipe ,   United States ,1
+   São Tomé and Príncipe ,   Trinidad and Tobago ,1
+   Sweden ,  Denmark ,1
+   Sweden ,   Trinidad and Tobago ,1
+   Spain ,   Trinidad and Tobago ,1
+   South Africa , Cambodia ,1
+   South Ossetia , Cambodia ,1
+   South Ossetia ,  Pakistan ,1
+   South Ossetia ,  East Timor ,1
+   South Ossetia ,  Central African Republic ,1
+   South Ossetia ,  Canada ,1
+   South Ossetia ,  Australia ,1
+   South Ossetia ,   United Kingdom ,1
+   Papua New Guinea ,  Central African Republic ,1
+   South Africa ,Bissau ,1
+   Mozambique ,Bissau ,1
+   Papua New Guinea ,  Cape Verde ,1
+   Hungary,   Russia ,1
+   India ,   Japan ,1
+   India ,   Israel ,1
+   India ,   Iran ,1
+   Hungary,  Romania ,1
+   Hungary,  East Timor ,1
+   Hungary,  Central African Republic ,1
+   Hungary,  Bulgaria ,1
+   Hungary,  Albania ,1
+   Hungary,   United States ,1
+   Hungary,   Poland ,1
+   India ,   North Macedonia ,1
+   Greece ,  Albania ,1
+   Ghana , Cambodia ,1
+   Ghana ,  Laos ,1
+   Ghana ,   Vietnam,1
+   Ghana ,   Trinidad and Tobago ,1
+   Ghana ,   South Africa ,1
+   Ghana ,   Saint Vincent and the Grenadines ,1
+   Ghana ,   Kenya ,1
+   Germany ,  Romania ,1
+   India ,   Libya ,1
+   India ,   Russia ,1
+   Israel ,   Saint Vincent and the Grenadines ,1
+   Iran ,   United Kingdom ,1
+   Israel ,   North Macedonia ,1
+   Israel ,   Libya ,1
+   Iraq ,  East Timor ,1
+   Iraq ,   Trinidad and Tobago ,1
+   Iraq ,   Saint Vincent and the Grenadines ,1
+   Iraq ,   Russia ,1
+   Iran ,  Pakistan ,1
+   Iran ,  East Timor ,1
+   Iran ,   United States ,1
+   Iran ,   South Ossetia ,1
+   India ,   Sahrawi Arab Democratic Republic ,1
+   Iran ,   South Africa ,1
+   Iran ,   North Macedonia ,1
+   Iran ,   Libya ,1
+   Iran ,   Israel ,1
+   Iran ,   Iraq ,1
+   India ,  Bangladesh ,1
+   India ,   United States ,1
+   India ,   United Kingdom ,1
+   India ,   South Africa ,1
+   Germany ,  Central African Republic ,1
+   Germany ,  Bulgaria ,1
+   Germany ,  Austria ,1
+   Egypt ,   South Africa ,1
+   France,   Israel ,1
+   France,   Iran ,1
+   France,   India ,1
+   France,   Hungary,1
+   Finland ,  Romania ,1
+   Finland ,   Germany ,1
+   Estonia ,  Romania ,1
+   Estonia ,   Russia ,1
+   Egypt ,  East Timor ,1
+   Egypt ,   North Macedonia ,1
+   Germany ,  Albania ,1
+   Egypt ,   Libya ,1
+   Cook Islands ,  East Timor ,1
+   Cook Islands ,   Papua New Guinea ,1
+    Vatican City (Holy See) ,  Australia ,1
+    Vatican City (Holy See) ,   United States ,1
+    Vatican City (Holy See) ,   Russia ,1
+    Vatican City (Holy See) ,   Philippines ,1
+    Vatican City (Holy See) ,   Japan ,1
+    Vatican City (Holy See) ,   Iraq ,1
+   France,   Ivory Coast,1
+   France,   Libya ,1
+   France,   Mozambique ,1
+   France,   North Macedonia ,1
+   Germany ,   United Kingdom ,1
+   Germany ,   Ukraine ,1
+   Germany ,   Sweden ,1
+   Germany ,   South Ossetia ,1
+   Germany ,   South Africa ,1
+   Germany ,   Sahrawi Arab Democratic Republic ,1
+   Germany ,   Papua New Guinea ,1
+   Germany ,   North Macedonia ,1
+   Germany ,   Hungary,1
+   France,Bissau ,1
+   France,  Pakistan ,1
+   France,  Cape Verde ,1
+   France,  Belgium ,1
+   France,  Austria ,1
+   France,  Angola ,1
+   France,   United Kingdom ,1
+   France,   São Tomé and Príncipe ,1
+   France,   South Ossetia ,1
+   France,   Papua New Guinea ,1
+   Israel ,   Russia ,1
+   Israel ,   South Africa ,1
+   Papua New Guinea ,  Angola ,1
+   Mozambique ,   Trinidad and Tobago ,1
+   North Macedonia ,   Philippines ,1
+   North Macedonia ,   Northern Cyprus ,1
+   Netherlands ,  Belgium ,1
+   Netherlands ,   Trinidad and Tobago ,1
+    Vatican City (Holy See) ,   Iran ,1
+   Mozambique ,  Central African Republic ,1
+   Mozambique ,  Cape Verde ,1
+   Mozambique ,  Angola ,1
+   Mozambique ,   United States ,1
+   Mozambique ,   São Tomé and Príncipe ,1
+   North Macedonia ,   Sahrawi Arab Democratic Republic ,1
+   Mozambique ,   South Africa ,1
+   Mozambique ,   Saint Vincent and the Grenadines ,1
+   Mozambique ,   Papua New Guinea ,1
+   Morocco ,  Algeria ,1
+   Morocco ,   Trinidad and Tobago ,1
+   Morocco ,   South Africa ,1
+   Morocco ,   Saint Vincent and the Grenadines ,1
+   Mongolia ,  Cuba ,1
+   Mongolia ,   Vietnam,1
+   North Macedonia ,   Russia ,1
+   North Macedonia ,   Singapore ,1
+   Israel ,   South Ossetia ,1
+   Northern Cyprus ,   United States ,1
+   Papua New Guinea ,   São Tomé and Príncipe ,1
+   Papua New Guinea ,   Spain ,1
+   Papua New Guinea ,   Solomon Islands ,1
+   Papua New Guinea ,   San Marino ,1
+   Papua New Guinea ,   Russia ,1
+   Panama ,   Saint Vincent and the Grenadines ,1
+   Norway,   Sweden ,1
+   Northern Cyprus ,  Canada ,1
+   Northern Cyprus ,  Australia ,1
+   Northern Cyprus ,   Trinidad and Tobago ,1
+   North Macedonia ,   Thailand ,1
+   Northern Cyprus ,   South Ossetia ,1
+   Northern Cyprus ,   Saint Vincent and the Grenadines ,1
+   North Macedonia , Cambodia ,1
+   North Macedonia ,  Pakistan ,1
+   North Macedonia ,  East Timor ,1
+   North Macedonia ,  Cuba ,1
+   North Macedonia ,  Canada ,1
+   North Macedonia ,  Australia ,1
+   North Macedonia ,   United Kingdom ,1
+   Mongolia ,   Trinidad and Tobago ,1
+   Mongolia ,   Saint Vincent and the Grenadines ,1
+   Mongolia ,   North Macedonia ,1
+   Japan ,   Singapore ,1
+   Kenya ,   Vietnam,1
+   Kenya ,   Trinidad and Tobago ,1
+   Kenya ,   South Africa ,1
+   Kenya ,   Saint Vincent and the Grenadines ,1
+   Japan ,  Central African Republic ,1
+   Japan ,  Canada ,1
+   Japan ,  Australia ,1
+   Japan ,   Thailand ,1
+   Japan ,   South Africa ,1
+   Japan ,   North Macedonia ,1
+   Mexico ,   Saint Vincent and the Grenadines ,1
+   Ivory Coast,   Saint Vincent and the Grenadines ,1
+   Italy ,  Central African Republic ,1
+   Italy ,   United States ,1
+   Italy ,   Sahrawi Arab Democratic Republic ,1
+   Italy ,   Papua New Guinea ,1
+   Israel ,  Pakistan ,1
+   Israel ,   United States ,1
+   Israel ,   United Kingdom ,1
+   Israel ,   Trinidad and Tobago ,1
+   Kenya ,  Laos ,1
+   Kenya , Cambodia ,1
+   Latvia ,   Russia ,1
+   Latvia ,  Romania ,1
+   Mexico ,   Papua New Guinea ,1
+   Marshall Islands ,   United States ,1
+   Marshall Islands ,   Trinidad and Tobago ,1
+   Marshall Islands ,   Saint Vincent and the Grenadines ,1
+   Marshall Islands ,   Russia ,1
+   Luxembourg,  Belgium ,1
+   Luxembourg,   Trinidad and Tobago ,1
+   Luxembourg,   Saint Vincent and the Grenadines ,1
+   Luxembourg,   Netherlands ,1
+   Lithuania ,  Romania ,1
+   Lithuania ,   Russia ,1
+   Libya ,  Pakistan ,1
+   Libya ,  East Timor ,1
+   Libya ,   United States ,1
+   Libya ,   United Kingdom ,1
+   Libya ,   South Ossetia ,1
+   Libya ,   Russia ,1
+   Lebanon ,  East Timor ,1
+   Lebanon ,   Saint Vincent and the Grenadines ,1
+  Pakistan , Afghanistan ,1
